@@ -6,3 +6,4 @@
 ![WhatsApp Image 2023-06-26 at 10 02 13 PM (2)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/9aeeba14-e729-478e-9033-ea32cb1451e4)
 ![WhatsApp Image 2023-06-26 at 10 02 12 PM](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/cec0b673-e15a-46f5-9679-2837b3abce24)
 ![WhatsApp Image 2023-06-26 at 10 02 12 PM (1)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/ebd1e154-4765-4411-8d66-cbe5aca9eb11)
+![WhatsApp Image 2023-06-26 at 10 02 12 PM (2)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/f0bbde14-c77e-4a68-bbd5-9b8e0ff84b62)
