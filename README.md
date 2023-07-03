@@ -22,6 +22,7 @@
 ![WhatsApp Image 2023-06-27 at 6 27 47 PM](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/b04f1387-134a-4584-b95b-8c0cd9720124)
 ![WhatsApp Image 2023-06-27 at 6 27 47 PM (1)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/3804e25a-3d85-4d46-8f0c-bd6edfabe359)
 ![WhatsApp Image 2023-06-28 at 8 19 50 PM](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/bb286436-bc04-45d3-86eb-5ec93bc02fe5)
+![Screenshot (245)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/89b8f0ac-54e2-45af-9f59-0030fdff516c)
 ![WhatsApp Image 2023-06-28 at 8 19 49 PM](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/fbf74105-b3ea-4db9-90df-48712855ed99)
 ![WhatsApp Image 2023-06-28 at 8 19 49 PM (1)](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/f0f2b6fc-fe8c-4c0b-b652-b2823b2414c5)
 ![WhatsApp Image 2023-06-28 at 8 19 48 PM](https://github.com/krunalbhongade/Advanced-JS-DOM-by-angela/assets/126875304/05aa184e-466f-4b94-b8a8-8596488f5772)
